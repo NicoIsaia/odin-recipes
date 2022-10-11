@@ -8,4 +8,6 @@ I used this simple project to practice:
 * Ordered and unordered lists.
 * Links.
 * Image insertion.
+* Basic git/github usage.
+* Basic markdown.
 
