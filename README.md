@@ -2,4 +2,9 @@
 
 Basic Recipe Website
 
-I used this simple webpage to practice basic HTML and git/github.
+I used this simple project to practice:
+-Creating simple boilerplate HTML.
+-Headings.
+-Ordered and unordered lists.
+-Links.
+-Image insertion.
