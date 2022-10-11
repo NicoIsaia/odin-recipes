@@ -1,10 +1,11 @@
 # odin-recipes
 
-Basic Recipe Website
+## Basic Recipe Website
 
 I used this simple project to practice:
--Creating simple boilerplate HTML.
--Headings.
--Ordered and unordered lists.
--Links.
--Image insertion.
+* Creating simple boilerplate HTML.
+* Headings.
+* Ordered and unordered lists.
+* Links.
+* Image insertion.
+
